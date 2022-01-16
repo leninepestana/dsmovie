@@ -17,7 +17,7 @@ function Listing() {
         totalPages: 0,
         totalElements: 0,
         size: 12,
-        number: 1,
+        number: 0,
         first: true,
         numberOfElements: 0,
         empty: true
