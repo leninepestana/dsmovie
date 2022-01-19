@@ -536,7 +536,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 ### Passo: criar as entidades e o seed do banco
 
 #### Modelo conceitual
-![Image](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/dsmovie-dominio.png "Modelo conceitual")
+![dsmovie-dominio](https://user-images.githubusercontent.com/22635013/150182967-5d80f6fe-7118-458a-92d8-132d127b5396.png)
 
 #### application.properties
 ```
@@ -612,7 +612,7 @@ INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 3, 4.0);
 
 #### Padrão camadas adotado
 
-![Image](https://github.com/devsuperior/bds-assets/raw/main/sds/padrao-camadas.png "Padrão camadas")
+![padrao-camadas](https://user-images.githubusercontent.com/22635013/150183182-3db70a84-dc1e-4ebf-8e18-dc643c73cef6.png)
 
 - Criar repository
 - Criar DTO
@@ -633,7 +633,7 @@ INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 3, 4.0);
 
 4) Recalcular a avaliação média do filme e salvar no banco de dados.
 
-![Image](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/dsmovie-objs.png "Padrão camadas")
+![dsmovie-objs](https://user-images.githubusercontent.com/22635013/150183388-b05b8644-8f04-4fce-a41a-15c82d843aff.png)
 
 
 - **COMMIT: Save score**
