@@ -718,9 +718,6 @@ git subtree push --prefix backend heroku main
   - useParams
   - useNavigate
 
-## AVISO: as aulas ficarão disponíveis somente até domingo às 23h59
-
-## AVISO: Instruções sobre certificado no Github do [aqui](https://github.com/devsuperior/sds-dsmovie/tree/main/_certificado)
 
 ### Passo: Primeira requisição
 
