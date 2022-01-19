@@ -46,7 +46,8 @@ https://www.figma.com/file/hyovBMIxwrn2Bb5MZLrxHL/DSMovie4
 
 - ATENÇÃO: esta será a estrutura de pastas que vamos criar:
 
-![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/pastas-dsmovie.png)
+
+![pastas-dsmovie](https://user-images.githubusercontent.com/22635013/150182133-c5401974-bef4-402f-ad00-032c099dba04.png)
 
 ```
 yarn create react-app frontend --template typescript
